@@ -8,6 +8,7 @@ Topics:
 * AJAX
 * Promises
 * Authentication tokens
+F
 
 ## Instructions
 
